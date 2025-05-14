@@ -1,6 +1,8 @@
 {
   "voila": {
     "template": "material",
-    "enable_nbextensions": true
+    "enable_nbextensions": true,
+    "show_tracebacks": true
   }
 }
+
